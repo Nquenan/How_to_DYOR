@@ -73,10 +73,18 @@ MarketCapOf is a simple tool allowing users to compare coins together to evaluat
 ![chrome-capture-2023-12-3 (10)](https://github.com/Nquenan/How_to_DYOR/assets/112055340/abf18a9e-9e04-445c-89ab-1c290d5a5644)
 
 ---
-
 I hope this is useful! Let me know what you think about these tools, and if you have any other tools to share and add are welcome :D
 
- ## 🙋‍♀️ Support
+<p align="center">
+    <img src="https://github.com/Nquenan/How_to_DYOR/assets/112055340/468af78b-8535-40a2-b826-c96a6404dc96">
+<p>
+
+
+
+
+ ## 🙋‍♀️ Support ![](https://github.com/Nquenan/How_to_DYOR/assets/112055340/45ba004b-9049-463b-b305-43f8d45a50f3)
+
+
  If you like this info, give it a ⭐ and share it with friends!
 
 
