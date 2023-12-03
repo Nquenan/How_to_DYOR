@@ -8,7 +8,11 @@ Enjoy!
 <p align="center">
     <img src="https://github.com/Nquenan/How_to_DYOR/assets/112055340/468af78b-8535-40a2-b826-c96a6404dc96"  width="150">
 <p>
-
+<p align="center">
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+ 
 ## CoinGecko
 This is a great website if you want to look at the charts. It is more accurate than coinmarketcap and contains more information.
 <a href="https://www.coingecko.com" target="_blank">LINK</a>
